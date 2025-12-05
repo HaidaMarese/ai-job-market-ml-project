@@ -109,6 +109,11 @@ https://seaborn.pydata.org/
 ITCS 3156: Introduction to Machine Learning. UNC Charlotte, 2025.
 
 ##  License
-
 Distributed under the MIT License.
 This project may be used for academic or personal learning purposes.
+
+## Author
+Haida Makouangou
+Computer Science – AI, Robotics & Gaming Concentration
+University of North Carolina at Charlotte
+
