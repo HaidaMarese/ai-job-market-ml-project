@@ -73,6 +73,32 @@ Model performance was assessed using:
 git clone https://github.com/HaidaMarese/ai-job-market-ml-project.git
 cd ai-job-market-ml-project
 ```
+### Install Anaconda (if not already installed)
+
+### Download Anaconda here:
+🔗 https://www.anaconda.com/products/distribution
+
+### Open Anaconda Prompt
+### Activate the Base Environment
+```bash
+conda activate base
+```
+
+### Install Required Packages
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+- This will automatically open Jupyter Notebook in your browser.
+Then simply open:
+
+- final_project_ai_job_market.ipynb
+  
 ##  Acknowledgement
 
 I reused portions of my previous coursework from ITCS 3156, specifically:
